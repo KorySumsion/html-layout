@@ -1,0 +1,32 @@
+html, body {
+	height:95%;
+	Width:65%;
+}
+
+
+.box1 {
+	background: red;
+	height: 40%;
+	width: 75%;
+	float: ;
+}
+.box2 {
+	background: blue;
+	height: 75%;
+	width: 75%;
+	float: left;
+}
+.box3 {
+	background: yellow;
+	height: 75%;
+	width: 45%;
+	
+	margin: 0 auto;
+}
+.box5 {
+	background: green;
+	height: 25%;
+	width: 45%;
+	
+	margin: 0 auto;
+}
